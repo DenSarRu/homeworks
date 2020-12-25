@@ -6,7 +6,7 @@ num = input('Введите число: ')
 summa = 0
 count = 1
 
-while count <= int(num):
+while count <= 3:
     summa += int(num * count)
     count += 1
 
