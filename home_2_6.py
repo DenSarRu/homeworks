@@ -1,6 +1,3 @@
-from collections import defaultdict
-
-
 #  функция проверки введенного числа - вещественное оно или нет
 def is_float(s):
     try:
