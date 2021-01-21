@@ -1,0 +1,15 @@
+{
+    "worker": "Jon Smith",
+    "skills": ["programming", "design", "engineering"],
+    "age": 40,
+    "workplaces": [
+        {
+            "first": "IBM",
+            "time": "2010-2014"
+        },
+        {
+            "second": "Apple",
+            "time": "2014-2018"
+        }
+    ]
+}
